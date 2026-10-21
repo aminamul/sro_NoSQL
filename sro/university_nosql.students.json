@@ -1,0 +1,100 @@
+[{
+  "_id": 1,
+  "student_number": "ST001",
+  "first_name": "Али",
+  "last_name": "Ахметов",
+  "group": "IS-301",
+  "year": 3,
+  "email": "ali@example.com",
+  "active": true
+},
+{
+  "_id": 2,
+  "student_number": "ST002",
+  "first_name": "Алина",
+  "last_name": "Серикова",
+  "group": "IS-301",
+  "year": 3,
+  "email": "alina@example.com",
+  "active": true
+},
+{
+  "_id": 3,
+  "student_number": "ST003",
+  "first_name": "Данияр",
+  "last_name": "Иванов",
+  "group": "IS-301",
+  "year": 3,
+  "email": "daniyar@example.com",
+  "active": true
+},
+{
+  "_id": 4,
+  "student_number": "ST004",
+  "first_name": "Аружан",
+  "last_name": "Ким",
+  "group": "IS-302",
+  "year": 3,
+  "email": "aruzhan@example.com",
+  "active": true
+},
+{
+  "_id": 5,
+  "student_number": "ST005",
+  "first_name": "Нурлан",
+  "last_name": "Садыков",
+  "group": "IS-302",
+  "year": 3,
+  "email": "nurlan@example.com",
+  "active": true
+},
+{
+  "_id": 6,
+  "student_number": "ST006",
+  "first_name": "Диана",
+  "last_name": "Омарова",
+  "group": "IS-302",
+  "year": 3,
+  "email": "diana@example.com",
+  "active": true
+},
+{
+  "_id": 7,
+  "student_number": "ST007",
+  "first_name": "Тимур",
+  "last_name": "Беков",
+  "group": "IS-303",
+  "year": 3,
+  "email": "timur@example.com",
+  "active": true
+},
+{
+  "_id": 8,
+  "student_number": "ST008",
+  "first_name": "Мадина",
+  "last_name": "Алиева",
+  "group": "IS-303",
+  "year": 3,
+  "email": "madina@example.com",
+  "active": true
+},
+{
+  "_id": 9,
+  "student_number": "ST009",
+  "first_name": "Ерлан",
+  "last_name": "Нуров",
+  "group": "IS-303",
+  "year": 3,
+  "email": "yerlan@example.com",
+  "active": true
+},
+{
+  "_id": 10,
+  "student_number": "ST010",
+  "first_name": "София",
+  "last_name": "Волкова",
+  "group": "IS-301",
+  "year": 3,
+  "email": "sofia@example.com",
+  "active": true
+}]

@@ -1,0 +1,400 @@
+[{
+  "_id": 1,
+  "student_id": 1,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 90,
+  "status": "passed"
+},
+{
+  "_id": 2,
+  "student_id": 1,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 95,
+  "status": "passed"
+},
+{
+  "_id": 3,
+  "student_id": 1,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 88,
+  "status": "passed"
+},
+{
+  "_id": 4,
+  "student_id": 1,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 76,
+  "status": "passed"
+},
+{
+  "_id": 5,
+  "student_id": 1,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 92,
+  "status": "passed"
+},
+{
+  "_id": 6,
+  "student_id": 2,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 85,
+  "status": "passed"
+},
+{
+  "_id": 7,
+  "student_id": 2,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 91,
+  "status": "passed"
+},
+{
+  "_id": 8,
+  "student_id": 2,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 94,
+  "status": "passed"
+},
+{
+  "_id": 9,
+  "student_id": 2,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 89,
+  "status": "passed"
+},
+{
+  "_id": 10,
+  "student_id": 2,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 96,
+  "status": "passed"
+},
+{
+  "_id": 11,
+  "student_id": 3,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 72,
+  "status": "passed"
+},
+{
+  "_id": 12,
+  "student_id": 3,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 68,
+  "status": "passed"
+},
+{
+  "_id": 13,
+  "student_id": 3,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 80,
+  "status": "passed"
+},
+{
+  "_id": 14,
+  "student_id": 3,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 75,
+  "status": "passed"
+},
+{
+  "_id": 15,
+  "student_id": 3,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 83,
+  "status": "passed"
+},
+{
+  "_id": 16,
+  "student_id": 4,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 95,
+  "status": "passed"
+},
+{
+  "_id": 17,
+  "student_id": 4,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 98,
+  "status": "passed"
+},
+{
+  "_id": 18,
+  "student_id": 4,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 92,
+  "status": "passed"
+},
+{
+  "_id": 19,
+  "student_id": 4,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 90,
+  "status": "passed"
+},
+{
+  "_id": 20,
+  "student_id": 4,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 97,
+  "status": "passed"
+},
+{
+  "_id": 21,
+  "student_id": 5,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 60,
+  "status": "passed"
+},
+{
+  "_id": 22,
+  "student_id": 5,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 55,
+  "status": "passed"
+},
+{
+  "_id": 23,
+  "student_id": 5,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 70,
+  "status": "passed"
+},
+{
+  "_id": 24,
+  "student_id": 5,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 65,
+  "status": "passed"
+},
+{
+  "_id": 25,
+  "student_id": 5,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 72,
+  "status": "passed"
+},
+{
+  "_id": 26,
+  "student_id": 6,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 88,
+  "status": "passed"
+},
+{
+  "_id": 27,
+  "student_id": 6,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 84,
+  "status": "passed"
+},
+{
+  "_id": 28,
+  "student_id": 6,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 90,
+  "status": "passed"
+},
+{
+  "_id": 29,
+  "student_id": 6,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 86,
+  "status": "passed"
+},
+{
+  "_id": 30,
+  "student_id": 6,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 93,
+  "status": "passed"
+},
+{
+  "_id": 31,
+  "student_id": 7,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 78,
+  "status": "passed"
+},
+{
+  "_id": 32,
+  "student_id": 7,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 82,
+  "status": "passed"
+},
+{
+  "_id": 33,
+  "student_id": 7,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 75,
+  "status": "passed"
+},
+{
+  "_id": 34,
+  "student_id": 7,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 80,
+  "status": "passed"
+},
+{
+  "_id": 35,
+  "student_id": 7,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 85,
+  "status": "passed"
+},
+{
+  "_id": 36,
+  "student_id": 8,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 92,
+  "status": "passed"
+},
+{
+  "_id": 37,
+  "student_id": 8,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 96,
+  "status": "passed"
+},
+{
+  "_id": 38,
+  "student_id": 8,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 89,
+  "status": "passed"
+},
+{
+  "_id": 39,
+  "student_id": 8,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 94,
+  "status": "passed"
+},
+{
+  "_id": 40,
+  "student_id": 8,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 98,
+  "status": "passed"
+},
+{
+  "_id": 41,
+  "student_id": 9,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 65,
+  "status": "passed"
+},
+{
+  "_id": 42,
+  "student_id": 9,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 73,
+  "status": "passed"
+},
+{
+  "_id": 43,
+  "student_id": 9,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 68,
+  "status": "passed"
+},
+{
+  "_id": 44,
+  "student_id": 9,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 70,
+  "status": "passed"
+},
+{
+  "_id": 45,
+  "student_id": 9,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 75,
+  "status": "passed"
+},
+{
+  "_id": 46,
+  "student_id": 10,
+  "course_id": 101,
+  "semester": "2026-Fall",
+  "grade": 87,
+  "status": "passed"
+},
+{
+  "_id": 47,
+  "student_id": 10,
+  "course_id": 102,
+  "semester": "2026-Fall",
+  "grade": 90,
+  "status": "passed"
+},
+{
+  "_id": 48,
+  "student_id": 10,
+  "course_id": 103,
+  "semester": "2026-Fall",
+  "grade": 93,
+  "status": "passed"
+},
+{
+  "_id": 49,
+  "student_id": 10,
+  "course_id": 104,
+  "semester": "2026-Fall",
+  "grade": 85,
+  "status": "passed"
+},
+{
+  "_id": 50,
+  "student_id": 10,
+  "course_id": 105,
+  "semester": "2026-Fall",
+  "grade": 91,
+  "status": "passed"
+}]
